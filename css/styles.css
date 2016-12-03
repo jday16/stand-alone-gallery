@@ -1,0 +1,55 @@
+/********************
+YOUR STYLES
+*******************/
+
+.header-title-style-1 {
+    background-image: linear-gradient(to bottom right, rgba( 220, 128, 50, 0.5), rgba(30, 100, 128, 0.7));
+}
+
+
+
+
+/********************
+MEDIA QUERIES
+*******************/
+/* Mobile: 320px = 20em */
+@media screen and (min-width: 20em) { 
+
+  /* Diagnostic Styling. */
+    header {
+       font-size: 1.5em; 
+    }
+    
+  body {
+       background: #031316;
+  }
+  
+}
+
+/* Tablet:  768px = 160em */
+@media screen and (min-width: 48em)  {
+
+  /* Diagnostic Styling. */
+  header {
+       font-size: 2.5em; 
+    }
+    
+  body {
+       background: #031316;
+  }
+
+}
+
+/* Desktop: 1280px = 80em */
+@media screen and (min-width: 80em) { 
+  
+  /* Diagnostic Styling. */
+    header {
+       font-size: 2.5em; 
+    }
+    
+  body {
+       background: #031316;
+  }
+
+}
