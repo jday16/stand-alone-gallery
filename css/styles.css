@@ -8,7 +8,18 @@ YOUR STYLES
     background-repeat: no-repeat;
     background-position: top left, top right, top;
 }
-
+.header-title {
+    min-height: 550px;
+    max-height: 550px;
+    text-align: center;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4em 0;
+    border: solid white 2px;
+}
 
 /********************
 MEDIA QUERIES
