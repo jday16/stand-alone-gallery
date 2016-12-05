@@ -9,9 +9,11 @@ var numRand = Math.floor( Math.random() * maxRand );
 //console.log(numRand);
 
 // Store images
-var img0 = '/img/fullsize/1.jpg';
-var img1 = '/img/fullsize/2.jpg';
-var img2 = '/img/fullsize/3.jpg';
+var img0 = '/img/fullsize/tink.jpg';
+var img1 = '/img/fullsize/boots.jpg';
+var img2 = '/img/fullsize/earth_girl.jpg';
+var img3 = '/img/fullsize/flower.jpg';
+var img3 = '/img/fullsize/elephant.jpg';
 
 // Show Images
 $('header img').attr('src', eval('img' + numRand) );
