@@ -27,6 +27,13 @@ YOUR STYLES
     padding: 0.5em 0.5em 0.5em 0.5em;
 }
 
+footer {
+color:darkgray;
+    text-align: center;
+}
+.gallery {
+    text-align: center;
+}
 /********************
 MEDIA QUERIES
 *******************/
