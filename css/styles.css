@@ -1,7 +1,9 @@
 /********************
 YOUR STYLES
 *******************/
-
+head, body {
+    font-family: 'Amatic SC', cursive;
+}
 .header-title-style-1 {
     background-image: linear-gradient(to bottom right, rgba( 220, 128, 50, 0.5), rgba(30, 100, 128, 0.7));
     background-size: cover;
@@ -20,7 +22,7 @@ YOUR STYLES
     padding: 4em 0;
     border: solid white 2px;
 }
-.header-title-hgroup {
+.header-title-group {
     margin-top: auto;
     border: 2px solid white;
     display: inline-block;
