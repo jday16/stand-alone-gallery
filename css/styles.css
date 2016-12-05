@@ -4,6 +4,9 @@ YOUR STYLES
 head, body {
     font-family: 'Amatic SC', cursive;
 }
+h1 {
+    color:darkgray;
+}
 .header-title-style-1 {
     background-image: linear-gradient(to bottom right, rgba( 220, 128, 50, 0.5), rgba(30, 100, 128, 0.7));
     background-size: cover;
